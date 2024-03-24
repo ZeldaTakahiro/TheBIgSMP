@@ -1,0 +1,14 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-forge-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/tqPSIRGd/deeperdarker-forge-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "0127579808db9815f2457428093561c93167c131edadd15e961516f77a62a099a4503b0d6e0da5d3f5e11da031cde9973cdad03bfce318f9c3e976978ed9653a"
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "tqPSIRGd"

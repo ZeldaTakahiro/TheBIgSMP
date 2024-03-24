@@ -1,0 +1,14 @@
+name = "Embeddium (Rubidium) Extra"
+filename = "rubidium-extra-0.5.4.2+mc1.20.1-build.118.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oY2B1pjg/versions/5H0CaOam/rubidium-extra-0.5.4.2%2Bmc1.20.1-build.118.jar"
+hash-format = "sha512"
+hash = "73bc825a3ae059901daa594817e7bf2cecbf593d226d8bc7a3fd9c8228a3b72a3aad8f8942e69a775cea859c1670e9b7e8fc3b605476f886578bc9c7814141bb"
+
+[update]
+[update.modrinth]
+mod-id = "oY2B1pjg"
+version = "5H0CaOam"
