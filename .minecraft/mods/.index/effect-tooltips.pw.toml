@@ -1,0 +1,13 @@
+filename = 'EffectTooltips-Forge-1.20.1-9.0.2.jar'
+name = 'Effect Tooltips'
+side = 'client'
+
+[download]
+hash = '33dde8383ca088682db4e33703c689c4af021a63483af453b2c50f0c207c0676ec5e4b8aa8dd6812cfbfab8e55f52a8aa585f98e9c5b896749c28f6d08ad7d0d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qc0LobOe/versions/wr9fhnQL/EffectTooltips-Forge-1.20.1-9.0.2.jar'
+
+[update.modrinth]
+mod-id = 'qc0LobOe'
+version = 'wr9fhnQL'
