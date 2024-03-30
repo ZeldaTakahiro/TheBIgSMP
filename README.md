@@ -14,7 +14,6 @@ Before we start, make sure to download the following components:
 
 - [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Prism Launcher](https://prismlauncher.org/download/)
-- [Modded Minecraft Instance](https://github.com/ZeldaTakahiro/TheBIgSMP/releases/download/Minecraft/TheBigSMP.zip)
 
 ## Installing Java 17
 
