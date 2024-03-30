@@ -29,7 +29,7 @@ Before we start, make sure to download the following components:
 3. Open the installer and proceed through to install Prism Launcher.
 4. After this, open up Prism Launcher.
 5. If Java Version 17 is an available option, you installed Java correctly.
-6. In the "Maximum Memory Allocation" field, please fill in "4096 MiB". Note: This will require your system to at least have 4GB's (Preferably 8GB or Above) of Memory in your PC.
+6. In the "Maximum Memory Allocation" field, please fill in "6144 MiB". Note: This will require your system to at least have 6GB's (Preferably 12GB or Above) of Memory in your PC.
 
 ## Installing the Modded Minecraft Instance
 
