@@ -34,6 +34,6 @@ Before we start, make sure to download the following components:
 ## Installing the Modded Minecraft Instance
 
 1. After getting to the main page of the Prism Launcher, proceed to `File > Add Instance`.
-2. On this screen, go to `Import` on the side panel, and click `Browse`.
-3. Browse to "TheBigSMP.zip" that you downloaded earlier.
-4. After selecting and it imports, that should be everything setup! You can now press "Launch" and the game should start!
+2. On this screen, go to `Curseforge` on the side panel, and Search for `All the Mods 9 - ATM9`.
+3. In the bottom right, Select Version `All the Mods 9-0.2.54`
+4. After selecting the version, Press `OK`, You may be prompted to install more mods, Press `Open Missing`, After this proceed to download all the missing mods and after press `OK`
