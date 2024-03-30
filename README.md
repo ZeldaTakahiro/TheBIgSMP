@@ -36,3 +36,10 @@ Before we start, make sure to download the following components:
 2. On this screen, go to `Curseforge` on the side panel, and Search for `All the Mods 9 - ATM9`.
 3. In the bottom right, Select Version `All the Mods 9-0.2.54`
 4. After selecting the version, Press `OK`, You may be prompted to install more mods, Press `Open Missing`, After this proceed to download all the missing mods and after press `OK`
+
+## Adding Server IP
+
+1. In Minecraft, Go to the Multiplayer Section
+2. Within Multiplayer, Click `Add Server`
+3. Enter any Name into `Server Name`, In the `Server Address` Field, Enter the IP found [here](https://discord.com/channels/1219131404257067089/1219651668254392432/1221896569335447613)
+4. Enjoy
